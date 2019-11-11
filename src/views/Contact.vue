@@ -46,7 +46,7 @@
                     <el-input type="textarea" :rows="3"></el-input>
                 </el-form-item>
                 <el-form-item style="text-align: center">
-                    <el-button type="primary">提交</el-button>
+                    <el-button type="primary" @click="submit">提交</el-button>
                 </el-form-item>
             </el-form>
         </div>
@@ -57,7 +57,12 @@
     import Title from "../components/Title";
     export default {
         name: "Contact",
-        components: {Title}
+        components: {Title},
+        methods:{
+            submit(){
+                this.$message.success('已提交')
+            }
+        }
     }
 </script>
 
