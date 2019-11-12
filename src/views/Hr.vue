@@ -1,7 +1,7 @@
 <template>
     <div class="hr">
         <img class="banner" src="../assets/img/hr/banner.png" alt=""/>
-        <Title zh="人才招聘" en="Talent Recruitment"></Title>
+        <Title zh="人才招聘" en="Recruitment"></Title>
         <section>
             <h4>一、美工</h4>
             <h4>岗位职责</h4>
