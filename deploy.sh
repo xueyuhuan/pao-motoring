@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 # 当发生错误时中止脚本
-#set -e
+set -e
 
 # 构建
 npm run build
@@ -13,9 +13,6 @@ cd dist
 # echo 'www.example.com' > CNAME
 
 git init
-
-git checkout --orphan gh-pages
-
 git add -A
 git commit -m 'deploy'
 
@@ -23,6 +20,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # 部署到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:<xueyuhuan>/<pao-motoring>.git master:gh-pages
+git push -f git@github.com:xueyuhuan/pao-motoring.git master:gh-pages
 
 cd -
