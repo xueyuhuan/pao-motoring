@@ -57,7 +57,7 @@
       <Title zh="商务合作" en="Business Cooperation"></Title>
       <div class="content">
         <img src="../assets/img/business.png" alt=""/>
-        <p class="txt">世佰跑公司目前在ebay、amazon、Aliexpress、wish、shopee等众多知名跨境电商平台上均有多家直营店铺，主营汽车零部件、家居用品、建材家装、美妆、母婴等多元化产
+        <p class="txt">世佰跑公司目前在eBay，Amazon，AliExpress，Wish，Shopee等众多知名跨境电商平台上均有多家直营店铺，主营汽车零部件、家居用品、建材家装、美妆、母婴等多元化产
           品品类，致力为全球客户提供最优质的产品及服务。招募各品类优质产品供应商，实现合作共赢，共同发展。
         </p>
       </div>
