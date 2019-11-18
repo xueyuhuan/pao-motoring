@@ -2,6 +2,7 @@
     <div class="details">
         <h2>海外汽配售后市场新变化</h2>
         <h3>核心部件产品需求旺盛，巨大的蓝海市场等你来挖掘</h3>
+        <p style="text-align: right;padding-right: 270px;font-size: 14px">文章来源：雨果网</p>
         <img src="../assets/img/details/article1.jpg" alt=""/>
         <p>
         <strong><span>一个巨大的蓝海——高达1.3万亿全球汽配售后市场。</span></strong>

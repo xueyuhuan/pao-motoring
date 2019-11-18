@@ -147,7 +147,9 @@ export default {
           margin-left: -80px;
           p{
             font-size: 18px;
-            line-height: 1.5;
+            font-family: LT_Regular,Arial,Helvetica,sans-serif;
+            letter-spacing: 0.5px;
+            line-height: 30px;
             text-align: left;
             text-indent: 2em;
             margin: 0 0 10px 0;
