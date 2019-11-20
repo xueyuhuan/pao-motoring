@@ -44,7 +44,7 @@
             <p>
                 工作时间：9点-6点 做五休二
             </p>
-            <h4><el-link type="success" href="mailto:hrisyhe@400paomotoring.com">投递简历>></el-link></h4>
+            <h4><el-link type="success" href="mailto:HrBp@400paomotoring.com">投递简历>></el-link></h4>
         </section>
         <section>
             <h4>二、eBay运营</h4>
@@ -80,7 +80,7 @@
             <p>
                 福利待遇：基本工资底薪+季度绩效奖金+年终奖金，五险，带薪休假，年假，不定期公司活动，节假日福利，全勤奖，工龄工资及其他更多福利。
             </p>
-            <h4><el-link type="success" href="mailto:hrisyhe@400paomotoring.com">投递简历>></el-link></h4>
+            <h4><el-link type="success" href="mailto:HrBp@400paomotoring.com">投递简历>></el-link></h4>
         </section>
         <section>
             <h4>
@@ -140,7 +140,7 @@
             <p>
                 5.建议：简历附带产品分析报告或设计案例一份。
             </p>
-            <h4><el-link type="success" href="mailto:hrisyhe@400paomotoring.com">投递简历>></el-link></h4>
+            <h4><el-link type="success" href="mailto:HrBp@400paomotoring.com">投递简历>></el-link></h4>
         </section>
         <section>
             <h4>
@@ -182,7 +182,7 @@
             <p>
                 福利待遇：基本工资底薪+季度绩效奖金+年终奖金，五险，带薪休假，年假，不定期公司活动，节假日福利，全勤奖，工龄工资及其他更多福利。
             </p>
-            <h4><el-link type="success" href="mailto:hrisyhe@400paomotoring.com">投递简历>></el-link></h4>
+            <h4><el-link type="success" href="mailto:HrBp@400paomotoring.com">投递简历>></el-link></h4>
         </section>
         <section>
             <h4>
@@ -224,7 +224,7 @@
             <p>
                 薪资：底薪+提成+奖金，待遇丰厚！！
             </p>
-            <h4><el-link type="success" href="mailto:hrisyhe@400paomotoring.com">投递简历>></el-link></h4>
+            <h4><el-link type="success" href="mailto:HrBp@400paomotoring.com">投递简历>></el-link></h4>
         </section>
     </div>
 </template>

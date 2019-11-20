@@ -48,7 +48,7 @@
         <img src="../assets/img/about.jpg" alt=""/>
         <div class="txt">
           <p>世佰跑（武汉）科技有限公司是由国家商务部推荐，2019年底由湖北省政府引进回汉的汽车零部件行业全球跨境电商龙头企业。</p>
-          <p>世佰跑以进出口一般贸易和跨境电商业务为核心，结合网络IT技术手段和自建全球化国际仓储的售后能力，为客户提供全供应链一站式服务。公司目前在ebay、amazon、Aliexpress、wish、shopee等众多知名跨境电商平台上均有多家直营店铺，主营汽车零部件、家居用品、建材家装、美妆、母婴等多元化产品品类，致力为全球客户提供最优质的产品及服务。</p>
+          <p>世佰跑以进出口一般贸易和跨境电商业务为核心，结合网络IT技术手段和自建全球化国际仓储的售后能力，为客户提供全供应链一站式服务。公司目前在eBay，Amazon，AliExpress，Wish，Shopee等众多知名跨境电商平台上均有多家直营店铺，主营汽车零部件、家居用品、建材家装、美妆、母婴等多元化产品品类，致力为全球客户提供最优质的产品及服务。</p>
 <!--          <el-link type="primary"><router-link to="/about">MORE>></router-link></el-link>-->
         </div>
       </div>
@@ -102,6 +102,7 @@ export default {
         li{
           text-align: center;
           .circle{
+            @include flex(center,center);
             background: #459eec;
             width: 120px;
             height: 120px;
